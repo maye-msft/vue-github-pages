@@ -11,7 +11,7 @@ async function execa(cmd, options) {
 
 (async () => {
   try {
-    // await execa("git", ["checkout", "--orphan", "gh-pages"]);
+    await execa("git", ["checkout", "--orphan", "gh-pages"]);
     console.log("Building...");
     await execa("npm", ["run", "build"]);
     // Understand if it's dist or build folder
