@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/cloudnativepatterns/",
+  publicPath: "/vue-github-pages/",
 };

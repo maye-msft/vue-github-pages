@@ -1,11 +1,20 @@
-# Vue Github Page Template
+# Vue GitHub Page Template
 
 The Template includes:
 
 - Vue App by VUE CLI
 - GitHub Action to build and deploy to gh-pages branch
 
-Fork the page and publish
+
+
+**ACTION:**
+
+- Fork this repo.
+- Change the name into your repo name in package.json, the current value is 'vue-github-pages'
+- Change the publicPath to your repo name in vue.config.js, the current value is 'vue-github-pages'
+- Edit your VUE App and publish to GitHub
+- Set your GitHub Page with the gh-pages branch
+https://docs.github.com/en/pages/quickstart
 
 ## Project setup
 

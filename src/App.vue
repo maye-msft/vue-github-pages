@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Vue Github Page Template"/>
+    <HelloWorld msg="Vue GitHub Page Template"/>
   </div>
 </template>
 
