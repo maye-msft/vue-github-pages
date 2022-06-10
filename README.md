@@ -5,7 +5,7 @@ The Template includes:
 - Vue App by VUE CLI
 - GitHub Action to build and deploy to gh-pages branch
 
-
+Page Link: https://maye-msft.github.io/vue-github-pages/
 
 **ACTION:**
 
