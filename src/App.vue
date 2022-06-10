@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Welcome to Cloud Native Patterns!"/>
+    <HelloWorld msg="Vue Github Page Template"/>
   </div>
 </template>
 
